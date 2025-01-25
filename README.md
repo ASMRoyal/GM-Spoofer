@@ -2,7 +2,7 @@
 - a spoofer for FiveM
 
 > [!NOTE]
-> Never share your credentials to others.
+> Never share your credentials to others. Your account will end up Termed!
 
 ## About us
 - me (0xyz), travis and Sneak made this spoofer
