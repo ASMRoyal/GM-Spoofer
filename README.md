@@ -1,5 +1,5 @@
 # GM Spoofer
-a spoofer for FiveM
+- a spoofer for FiveM
 
 ## About us
 - me (0xyz), travis and Sneak made this spoofer
