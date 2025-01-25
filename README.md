@@ -1,4 +1,4 @@
-# gmspoofer
+# GM Spoofer
 a spoofer for FiveM
 
 ## About us
