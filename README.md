@@ -1,6 +1,9 @@
 # GM Spoofer
 - a spoofer for FiveM
 
+> [!NOTE]
+> Never share your credentials to others.
+
 ## About us
 - me (0xyz), travis and Sneak made this spoofer
 - [join our discord to buy](https://discord.gg/PgDKUXBYCY)
