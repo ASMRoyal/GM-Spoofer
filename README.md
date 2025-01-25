@@ -1,2 +1,9 @@
 # gmspoofer
 a spoofer for FiveM
+
+## About us
+- me (0xyz), travis and Sneak made this spoofer
+- [join our discord to buy](https://discord.gg/PgDKUXBYCY)
+
+## Showcase
+![image](https://github.com/user-attachments/assets/873e5313-2791-46bc-8a46-e77c32092fc4)
