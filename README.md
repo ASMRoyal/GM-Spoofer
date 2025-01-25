@@ -1,5 +1,4 @@
 # GM Spoofer
-- a spoofer for FiveM
 
 > [!NOTE]
 > Never share your credentials to others. Your account will end up Termed!
