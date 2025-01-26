@@ -12,4 +12,4 @@
 > https://www.virustotal.com/gui/file-analysis/MjdhNDk5NDViYTE5YjA5NjAzODk3OTRmNDE1YzRhYTA6MTczNzg0NTcwNA==
 
 ## Showcase
-![image](https://github.com/user-attachments/assets/873e5313-2791-46bc-8a46-e77c32092fc4)
+![image](https://github.com/user-attachments/assets/0d771590-bf97-43b5-b6a7-34dde5d38b6b)
