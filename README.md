@@ -5,7 +5,7 @@
 
 ## About us
 - me (0xyz), travis and Sneak made this spoofer
-- [join our discord to buy](https://discord.gg/PgDKUXBYCY)
+- [join our discord to buy](https://discord.gg/XvFw2uy6gR)
 - or [buy here](https://gbmarket.mysellauth.com/product/spoofer-1-month)
 
 ## Virustotal
