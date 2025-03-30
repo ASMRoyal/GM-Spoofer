@@ -6,7 +6,7 @@
 ## About us
 - me (0xyz), travis and Sneak made this spoofer
 - [join our discord to buy](https://discord.gg/XvFw2uy6gR)
-- or [buy here](https://gbmarket.mysellauth.com/product/spoofer-1-month)
+- or [buy here](https://global-market.sellhub.cx/product/fivem-spoofer-lftm/)
 
 ## Virustotal
 > https://www.virustotal.com/gui/file-analysis/MjdhNDk5NDViYTE5YjA5NjAzODk3OTRmNDE1YzRhYTA6MTczNzg0NTcwNA==
