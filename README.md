@@ -13,3 +13,8 @@
 
 ## Showcase
 ![image](https://github.com/user-attachments/assets/0d771590-bf97-43b5-b6a7-34dde5d38b6b)
+
+![image](https://github.com/user-attachments/assets/601990fa-1e24-4b24-9f27-cebdc13a0a73)
+
+## GUI (available soon)
+![image](https://github.com/user-attachments/assets/6156fb25-8acb-4e1c-9630-840c5a43643e)
