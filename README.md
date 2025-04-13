@@ -1,4 +1,4 @@
-# GM Spoofer | F!veM W00fer
+# GM Spoofer  |  F!veM W00fer
 
 > [!NOTE]
 > Never share your credentials to others. Your account will end up Termed!
